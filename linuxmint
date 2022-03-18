@@ -1,2 +1,8 @@
 Primmeira etapa: criar o pendrive do linux mint;
-Segunda etapa:
+download linux mint: https://www.linuxmint.com/download.php
+Segunda etapa..: bootar no nootbook com o pedriver do linux mint;
+tecla de menu e inicializção: F8
+tecla de bios: Del
+Terceira etapa.: formatar e instalar o linux mint.
+Gparted: GParted (ou Gnome Partition Editor) é o aplicativo GNOME para edição de partições. Suas funções são as
+de detectar, ler, criar, destruir, redimensionar, verificar, mover e copiar partições e seus sistemas.

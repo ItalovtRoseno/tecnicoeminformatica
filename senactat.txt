@@ -1,2 +1,3 @@
 Criando arquivos no Github, utilizando a guia Add files.      
 apagando conteudo no GIthub
+atualizando do Github para o repositorio local
